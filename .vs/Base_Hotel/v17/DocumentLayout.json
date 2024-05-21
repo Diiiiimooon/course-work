@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1C971C-3262-4D17-84A3-F6E954CA3888}|UnitTest\\UnitTest.csproj|c:\\users\\dpaty\\desktop\\\u0434\u0432\u0433\u0443\u043F\u0441\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\base_hotel\\unittest\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1C971C-3262-4D17-84A3-F6E954CA3888}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\base_hotel\\policy_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|solutionrelative:base_hotel\\policy_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|c:\\users\\dpaty\\desktop\\\u0434\u0432\u0433\u0443\u043F\u0441\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\base_hotel\\base_hotel\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|solutionrelative:base_hotel\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\base_hotel\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|solutionrelative:base_hotel\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\base_hotel\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF34177F-5731-43E6-B343-2B4356A4D937}|Base_Hotel\\Base_Hotel.csproj|solutionrelative:base_hotel\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest4.cs",
+              "DocumentMoniker": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\UnitTest\\UnitTest4.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest4.cs",
+              "ToolTip": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\UnitTest\\UnitTest4.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest4.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:52:52.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Authorization.cs",
+              "RelativeDocumentMoniker": "Base_Hotel\\Authorization.cs",
+              "ToolTip": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Authorization.cs",
+              "RelativeToolTip": "Base_Hotel\\Authorization.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAEwCoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:55:06.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Users.cs",
+              "RelativeDocumentMoniker": "Base_Hotel\\Users.cs",
+              "ToolTip": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Users.cs",
+              "RelativeToolTip": "Base_Hotel\\Users.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAlwO8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:15:54.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Policy_password.cs",
+              "DocumentMoniker": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Policy_password.cs",
+              "RelativeDocumentMoniker": "Base_Hotel\\Policy_password.cs",
+              "ToolTip": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Policy_password.cs",
+              "RelativeToolTip": "Base_Hotel\\Policy_password.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwFEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:59:00.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Users.cs",
+              "RelativeDocumentMoniker": "Base_Hotel\\Users.cs",
+              "ToolTip": "C:\\Users\\dpaty\\Desktop\\\u0414\u0412\u0413\u0423\u041F\u0421\\3 \u041A\u0423\u0420\u0421\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u043C\u0438 \u0438 \u0438\u0445 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\Base_Hotel\\Base_Hotel\\Users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Base_Hotel\\Users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:59:27.03Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

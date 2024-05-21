@@ -1,0 +1,133 @@
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Base_Hotel.exe.config
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Base_Hotel.exe
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Base_Hotel.pdb
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Authorization.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Properties.Resources.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.exe
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.pdb
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Npgsql.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Json.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Channels.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Npgsql.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Json.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Channels.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.ValueTuple.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Hotel.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Users.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.CopyComplete
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Guests.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\ClosedXML.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Irony.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.IO.Packaging.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Document.NET.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Pdf.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Words.NET.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\XLParser.dll
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\ClosedXML.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\System.IO.Packaging.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Document.NET.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Words.NET.xml
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Numbers.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Payment.resources
+C:\Users\user\source\repos\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.TimeOfResidence.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Base_Hotel.exe.config
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Base_Hotel.exe
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Base_Hotel.pdb
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\ClosedXML.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Irony.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Npgsql.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\SixLabors.Fonts.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Buffers.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.IO.Packaging.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Memory.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Json.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Channels.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.ValueTuple.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Document.NET.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Pdf.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Words.NET.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\XLParser.dll
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\ClosedXML.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Npgsql.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\SixLabors.Fonts.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Buffers.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.IO.Packaging.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Memory.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Text.Json.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Channels.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\System.ValueTuple.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Document.NET.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\bin\Debug\Xceed.Words.NET.xml
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.AssemblyReference.cache
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Authorization.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Guests.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Hotel.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Numbers.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Payment.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Properties.Resources.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.TimeOfResidence.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.Users.resources
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.GenerateResource.cache
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.csproj.Up2Date
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.exe
+C:\Users\dpaty\Desktop\ДВГУПС\3 КУРС\5 семестр\Управление данными и их безопасность\Base_Hotel\Base_Hotel\obj\Debug\Base_Hotel.pdb
